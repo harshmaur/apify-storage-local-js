@@ -1,0 +1,1 @@
+{"version":3,"file":"unprocessed_request.d.ts","sourceRoot":"","sources":["../../../src/emulators/batch_add_requests/unprocessed_request.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,sCAAsC,CAAC;AAE1E,qBAAa,kBAAkB;IACR,SAAS,EAAE,MAAM;IAAS,GAAG,EAAE,MAAM;IAAS,MAAM,CAAC;gBAArD,SAAS,EAAE,MAAM,EAAS,GAAG,EAAE,MAAM,EAAS,MAAM,CAAC,gCAAoB;CAC/F"}

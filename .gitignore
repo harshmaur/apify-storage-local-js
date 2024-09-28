@@ -7,4 +7,3 @@ coverage
 yarn.lock
 package-lock.json
 test/tmp
-dist/

@@ -1,0 +1,1 @@
+{"version":3,"file":"queue_operation_info.js","sourceRoot":"","sources":["../../src/emulators/queue_operation_info.ts"],"names":[],"mappings":";;;AAAA,MAAa,kBAAkB;IAI3B,YAAmB,SAAiB,EAAE,cAA8B;QAAxD;;;;mBAAO,SAAS;WAAQ;QAHpC;;;;;WAA2B;QAC3B;;;;;WAA2B;QAGvB,IAAI,CAAC,iBAAiB,GAAG,cAAc,KAAK,SAAS,CAAC;QACtD,IAAI,CAAC,iBAAiB,GAAG,cAAc,KAAK,IAAI,CAAC;IACrD,CAAC;CACJ;AARD,gDAQC"}
